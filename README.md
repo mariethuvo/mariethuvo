@@ -49,9 +49,11 @@ This mindset shapes how I build analyses, dashboards, and recommendations.
 
 ## 🚀 Roles I’m Interested In
 
-* Business Analyst or Product Analyst roles
+* Business Analyst or Business Intelligence roles
 
 * Product Management roles
+
+* Marketing Analytics roles 
 
 I enjoy environments that value structured thinking, curiosity, and clear communication.
 
