@@ -1,13 +1,13 @@
 # Hi, I’m Marie 👋
 
-📊 Business Analytics | Product & Marketing Insights
+Business Analytics | Product & Marketing Insights
 
 I’m a Business Analytics graduate student who enjoys turning data into clear, actionable insights that help teams make better product and business decisions.
 I’m especially interested in roles where analytics supports product strategy, user experience, and growth, with a light but practical understanding of marketing performance.
 
 I like working on problems where data explains how users behave, why performance changes, and what to do next.
 
-## 🧠 How I Approach Problems
+## How I Approach Problems
 
 * Start with a clear question before touching the data
 
@@ -19,7 +19,7 @@ I like working on problems where data explains how users behave, why performance
 
 This mindset shapes how I build analyses, dashboards, and recommendations.
 
-## 🔍 What I Work On
+## What I Work On
 
 * Customer and user behavior analysis
 
@@ -31,7 +31,7 @@ This mindset shapes how I build analyses, dashboards, and recommendations.
 
 * Dashboards for decision-making (not just visualization)
 
-## 🛠 Tools & Skills
+## Tools & Skills
 
 * PostgreSQL
 
@@ -47,19 +47,10 @@ This mindset shapes how I build analyses, dashboards, and recommendations.
 
 * Data modeling & analytical thinking
 
-## 🚀 Roles I’m Interested In
 
-* Business Analyst or Business Intelligence roles
+## Let’s Connect
 
-* Product Management roles
-
-* Marketing Analytics roles 
-
-I enjoy environments that value structured thinking, curiosity, and clear communication.
-
-## 📫 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/anh-thu-vo/
+LinkedIn: https://www.linkedin.com/in/anh-thu-vo/
 
 
 Thanks for stopping by :) feel free to explore my projects and how I approach analytical problems.
